@@ -5,4 +5,10 @@
 cols = df.columns[:35]
 colours = ['#000099', '#ffff00']
 sns.heatmap(df[cols].isnull(), cmap=sns.color_palette(colours))
+
+df.isnull().sum() # Считаем количество пропущенных значений в каждом столбце
+
+df_nan = df.dropna(how='all') # Определяем наличие пустых значений в строках
+df_nan
 ```
+Вывод по пропущенным значениям: пропущенные значения полностью отсутствуют.
