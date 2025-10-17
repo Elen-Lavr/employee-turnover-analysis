@@ -4,24 +4,6 @@ pd.set_option('display.float_format', '{:.2f}'.format) # округлять до
 df.info() # Общая информация
 df.size # Количество значений
 
-class DataDescription:
-    """
-    JobSatisfaction - Удовлетворенность работой (1-4)
-    MaritalStatus - Семейное положение  
-    MonthlyIncome - Ежемесячный доход
-    MonthlyRater - Ежемесячная ставка оплаты труда
-    NumCompaniesWorked - Количество лет в компании
-    Over18 - Старше 18 лет (Yes/No)
-    OverTime - Переработка (Yes/No)
-    PercentSalaryHike - Процент повышения зарплаты
-    PerformanceRating - Рейтинг производительности (1-4)
-    RelationshipSatisfaction - Удовлетворенность отношениями (1-4)
-    StandardHours - Стандартное количество рабочих часов
-    StockOptionLevel - Шкала от 0 до 3
-    TotalWorkingYears - Общий стаж работы
-    """
-    pass
-
 # === НАЧАЛО ОПИСАНИЯ ПЕРЕМЕННЫХ ===
 """
 | Поле                           | Описание                                    |
