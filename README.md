@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; [![Taplink](https://img.shields.io/badge/Давайте_работать_вместе!-Taplink-FF69B4?style=for-the-badge&logo=linktree)](https://lawlena.taplink.ws)
+
 # Анализ факторов увольнения сотрудников
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
