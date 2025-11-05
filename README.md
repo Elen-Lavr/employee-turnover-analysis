@@ -37,5 +37,9 @@
     *   `scikit-learn` – машинное обучение и предобработка
     * `scipy` – статистический анализ
 
+[presentation](https://docs.google.com/presentation/d/1cYFqdsvFXwrm2EBuayYcN8pmMZcscPsEOAlFd3zDFnM/edit?usp=sharing),
+[documentation](https://docs.google.com/document/d/119lXDI0AYYLA3yuSu7ljw8LWE_jdpA5H/edit?usp=sharing&ouid=115475321101961781777&rtpof=true&sd=true),
+[notebook](https://colab.research.google.com/drive/1FHPClMnPge8wcgn8mwqqU-9KbXaVzneG)
+
 [![Вернуться в главный репозиторий](https://img.shields.io/badge/%E2%86%90-Главный%20репозиторий-blue)](https://github.com/Elen-Lavr)
 [![Наверх](https://img.shields.io/badge/%E2%86%91-Наверх-blue)](#анализ-факторов-увольнения-сотрудников)
