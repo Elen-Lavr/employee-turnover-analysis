@@ -24,7 +24,7 @@
 
 ### 📊 Данные
 
-*   **Источник:** набор данных ["IBM HR Analytics Employee Attrition & Performance"](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset).
+*   **Источник:** набор данных ["IBM HR Analytics Employee Attrition & Performance"](data/WA_Fn-UseC_-HR-Employee-Attrition.csv).
 *   **Объем:** 1470 сотрудников, 35 признаков.
 *   **Ключевые признаки:** возраст, доход, стаж, удовлетворенность работой, вовлеченность, баланс work/life и др.
 
