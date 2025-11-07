@@ -3,7 +3,7 @@ pd.set_option('display.max_columns', 100) # раскрыть все стольб
 pd.set_option('display.float_format', '{:.2f}'.format) # округлять до сотых
 df.info() # Общая информация
 df.size # Количество значений
-# ОПИСАНИЯ ПЕРЕМЕННЫХ в файле ../variable_description.md
+# ОПИСАНИЯ ПЕРЕМЕННЫХ в файле 02_0_variable_description.md
 df.describe() # Статистические сведения о датафрейме
 """
 Вывод по статистическим сведениям датафрейма:
