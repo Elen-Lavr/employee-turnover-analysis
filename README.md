@@ -37,7 +37,7 @@
     *   `scikit-learn` – машинное обучение и предобработка
     * `scipy` – статистический анализ
 
-[presentation](https://docs.google.com/presentation/d/1cYFqdsvFXwrm2EBuayYcN8pmMZcscPsEOAlFd3zDFnM/edit?usp=sharing),
+[presentation](reports/presentation_for_the_project_personnel.pdf),
 [documentation](reports/documentation.pdf),
 [notebook](notebooks/project_hr_analytics.ipynb)
 
